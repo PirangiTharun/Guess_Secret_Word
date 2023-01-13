@@ -1,0 +1,26 @@
+.heading {
+  display: flex;
+  justify-content: center;
+  font-size: 64px;
+}
+
+.inputs {
+  display: flex;
+  justify-content: center;
+}
+
+.inputBox {
+  margin: 10px;
+  height: 25px;
+}
+
+.submitBtn {
+  margin: 10px;
+}
+.successBox {
+  margin: auto;
+  width: 500px;
+  height: 300px;
+  background-color: lightgreen;
+  border: 1px solid green;
+}
