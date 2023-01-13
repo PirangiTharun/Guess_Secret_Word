@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/guess_the_secret_word/static/css/main.bd7705ae.css",
-    "main.js": "/guess_the_secret_word/static/js/main.576c28a7.js",
-    "static/js/787.ec704a7a.chunk.js": "/guess_the_secret_word/static/js/787.ec704a7a.chunk.js",
-    "static/media/partyPopper.png": "/guess_the_secret_word/static/media/partyPopper.52ea1965d3310d394022.png",
-    "index.html": "/guess_the_secret_word/index.html",
-    "main.bd7705ae.css.map": "/guess_the_secret_word/static/css/main.bd7705ae.css.map",
-    "main.576c28a7.js.map": "/guess_the_secret_word/static/js/main.576c28a7.js.map",
-    "787.ec704a7a.chunk.js.map": "/guess_the_secret_word/static/js/787.ec704a7a.chunk.js.map"
+    "main.css": "/Guess_Secret_Word/static/css/main.f46815ef.css",
+    "main.js": "/Guess_Secret_Word/static/js/main.1d1c04b8.js",
+    "static/js/787.ec704a7a.chunk.js": "/Guess_Secret_Word/static/js/787.ec704a7a.chunk.js",
+    "static/media/partyPopper.png": "/Guess_Secret_Word/static/media/partyPopper.52ea1965d3310d394022.png",
+    "index.html": "/Guess_Secret_Word/index.html",
+    "main.f46815ef.css.map": "/Guess_Secret_Word/static/css/main.f46815ef.css.map",
+    "main.1d1c04b8.js.map": "/Guess_Secret_Word/static/js/main.1d1c04b8.js.map",
+    "787.ec704a7a.chunk.js.map": "/Guess_Secret_Word/static/js/787.ec704a7a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd7705ae.css",
-    "static/js/main.576c28a7.js"
+    "static/css/main.f46815ef.css",
+    "static/js/main.1d1c04b8.js"
   ]
 }
